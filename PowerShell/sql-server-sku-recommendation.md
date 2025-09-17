@@ -95,7 +95,7 @@ The config file has the following structure:
     "overwrite":  "True",
     "displayResult": "True",
     "targetPlatform": "any",
-    "scalingFactor": 1000
+    "scalingFactor": 100
 }
 ```
 
